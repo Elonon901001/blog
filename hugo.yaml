@@ -1,7 +1,7 @@
 baseURL: "/"
 locale: "zh-cn"
 defaultContentLanguage: "zh-cn"
-title: "学习札记"
+title: "Shaun's blog"
 theme: "PaperMod"
 
 languages:
@@ -25,10 +25,10 @@ minify:
 
 params:
   env: "production"
-  title: "学习札记"
-  description: "每天记录要学什么，学到了什么，以及下一步继续往哪里走。"
+  title: "Shaun's blog"
+  description: "Shaun's notes on learning, building, and reflection."
   keywords: ["学习", "博客", "复盘", "笔记"]
-  author: "学习札记"
+  author: "Shaun"
   DateFormat: "2006-01-02"
   defaultTheme: "auto"
   disableThemeToggle: false
@@ -44,8 +44,8 @@ params:
   TocOpen: false
 
   homeInfoParams:
-    Title: "学习札记"
-    Content: "把每天学到的东西写成可以再次阅读的文章：计划、理解、卡点、心得和下一步。"
+    Title: "Shaun's blog"
+    Content: "Notes on learning, building, reflection, and what comes next."
 
 menu:
   main:
