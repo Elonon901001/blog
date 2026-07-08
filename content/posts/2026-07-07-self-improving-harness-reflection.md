@@ -1,7 +1,7 @@
 ---
 title: "从 Self-Improving Harness 想到的：评测、Terminal Agent 和自主性的边界"
 date: 2026-07-07T00:00:00+08:00
-draft: true
+draft: false
 tags: ["Agent", "Evaluation", "Terminal", "Research"]
 categories: ["AI 研究"]
 summary: "读 self-improving-harness 之后的一点感想：智能体研究不能只看模型有多强，还要看评测是否可靠、场景是否适合迭代、改进是否能泛化，以及自主性增加之后边界该如何定义。"
